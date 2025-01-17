@@ -81,7 +81,6 @@ This repository is structured to guide developers in understanding and implement
 
 ---
 
-Feel free to copy this structure and customize it further to suit your project needs! 😊
 
 Sanity CMS: To manage content, including product and user data.
 Third-Party APIs: For handling payment transactions and shipment tracking.
