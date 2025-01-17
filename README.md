@@ -1,6 +1,6 @@
 # Hackathon-Day-2
 E-Commerce System Architecture
-This repository provides a comprehensive overview of the system architecture for a modern e-commerce platform. It is designed to support key functionalities such as user registration, product exploration, order management, and shipment tracking, ensuring a seamless user experience.
+This repository provides a comprehensive overview of the system architecture for a modern e-commerce platform. It is designed to support key functionalities such as user registration, product exploration, order management, and shipment tracking, ensuring a seamless user experience
 
 Table of Contents
 Overview
